@@ -20,7 +20,7 @@ Please ensure you have each of the following installed
 
 ## Getting Started
 
-Clone this repository onto your local device and within the repository folder
+Clone this repository onto your local device and create a new Flutter project within the cloned folder
 
 ## Contributing
 - Before starting work on a new feature, always create a new branch with an appropriate, understandable name.
