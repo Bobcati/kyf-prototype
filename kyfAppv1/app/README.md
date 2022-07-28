@@ -4,7 +4,7 @@ This is the fluid homepage app
 
 ## Getting Started
 
-Clone this folder to your device and run the app on an IDE of your choice.
+Clone the "app" folder to your device and run the app on an IDE of your choice.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
