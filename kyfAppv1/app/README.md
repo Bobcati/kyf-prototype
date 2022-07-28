@@ -1,16 +1,14 @@
 # app
 
-A new Flutter project.
+This is the fluid homepage app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Clone this folder to your device and run the app on an IDE of your choice.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check out the onboarding documentation for more information:
+https://docs.google.com/document/d/1HJ3uEK2zNTuYdSSs-F93fnYpsUN7ypPc9FFRN4APPpA/edit 
+
